@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Cloud computing with AWS**
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **PyTorch, AWS CLI**
 
 - 👯 I’m looking to collaborate on **Data Analysis, EDA**
 
