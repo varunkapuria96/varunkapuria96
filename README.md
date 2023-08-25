@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varun Harish Kapuria</h1>
+<h1 align="center">Hi 👋, I'm Varun</h1>
 <h3 align="center">With over 3 years of experience in the SaaS industry and certification as a Google Data Analytics Professional, I have honed my skills in storytelling with data. As a team mentor in a fast-paced environment, I have gained valuable experience in managing high-pressure situations. Additionally, I have showcased my passion for data analytics utilizing tools such as R, SQL, Excel, Tableau, and PowerBI.</h3>
 
 - 🔭 I’m currently working on **Cloud computing with AWS**
