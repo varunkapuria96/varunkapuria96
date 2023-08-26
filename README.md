@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/varunkapuria96](https://github.com/varunkapuria96)
 
-- 📝 I regularly write articles on [Data Analysis with Python/R, Cybersecurity](Data Analysis with Python/R, Cybersecurity)
+- 📝 I regularly write articles on Data Analysis with Python/R, Cybersecurity
 
 - 💬 Ask me about **data scraping, data**
 
