@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on Data Analysis with Python/R, Cybersecurity
 
-- 💬 Ask me about **data scraping, data**
+- 💬 Ask me about **SQL, Pandas, Numpy, Beautiful Soup**
 
 - 📫 How to reach me **varunkapuria@arizona.edu**
 
