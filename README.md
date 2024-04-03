@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
 <h3 align="left">With over 3 years of experience in the SaaS industry and certification as a Google Data Analytics Professional, I have honed my skills in storytelling with data. As a team mentor in a fast-paced environment, I have gained valuable experience in managing high-pressure situations. Additionally, I have showcased my passion for data analytics utilizing tools such as R, Python, SQL, Excel, Tableau, and PowerBI.</h3>
 
-- 🔭 I’m currently working on **Cloud computing with AWS**
+- 🔭 I’m currently working on **MLOPs website that predicts stock market using AWS EKS**
 
-- 🌱 I’m currently learning **PyTorch, AWS CLI**
+- 🌱 I’m currently learning **AWS CLI, Shell Script**
 
-- 👯 I’m looking to collaborate on **Data Analysis, EDA**
+- 👯 I’m looking to collaborate on **Data Analysis, EDA using Python/SQL, Sales Analysis, MLOPs projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/varunkapuria96](https://github.com/varunkapuria96)
 
