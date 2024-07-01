@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **varunkapuria@arizona.edu**
 
-- 📄 Know about my [experiences](https://docs.google.com/document/d/1PObDqWQC_8_ugCpwWjTigfEN3teLU9Ru/edit?usp=sharing&ouid=114394260552749592729&rtpof=true&sd=true)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1AdD9obkRMWjMZc-X2VaKmiJnFgARTMiX/view?usp=sharing)
 
 - ⚡ Fun fact **I was ranked in the top 0.3% in Counter Strike: Global Offensive**
 
